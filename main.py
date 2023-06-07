@@ -1,3 +1,5 @@
+# Bingo. Use of prettytable and dictionaries
+
 import random, pprint, os, time
 from prettytable import PrettyTable, ALL, FRAME
 bingo=[]
